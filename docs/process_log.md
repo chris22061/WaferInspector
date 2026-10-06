@@ -7,7 +7,7 @@
 
 ### Substrate preparation
 - Substrate: silicon wafer (TODO: confirm "TiO2 base")
-- Dehydration bake: 15 min at 115 °C
+- Dehydration bake: 15 min at 150 °C
 - Adhesion promoter: OAP primer
 
 ### Spin coating
